@@ -1,4 +1,6 @@
 import CreaterSection from "@/components/CreaterSection";
+import CreateWinSection from "@/components/CreateWinSection";
+import DashboardSection from "@/components/DashboardSection";
 import HeroSection from "@/components/HeroSection";
 import ParticipationSection from "@/components/ParticipationSection";
 
@@ -8,6 +10,8 @@ export default function Home() {
       <HeroSection />
       <CreaterSection />
       <ParticipationSection />
+      <CreateWinSection />
+      <DashboardSection />
     </main>
   );
 }

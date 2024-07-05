@@ -7,7 +7,7 @@ function ParticipationSection() {
   return (
     <>
       <div className="w-auto border h-[1px] text-slate-500"></div>
-      <div className="bg-[#010625] pt-16 pb-12 pl-[145px] pr-12">
+      <div className="bg-[#010625] pt-16 pb-[226px] pl-[145px] pr-12">
         <div className="flex justify-between pb-12">
           <div>
             <p className="text-[114px] font-[700px] text-[#65BEFF]">
