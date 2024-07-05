@@ -102,9 +102,9 @@ function CreatingharmonySection() {
         </svg>
       </div>
 
-      <div className="absolute bottom-[10px] left-0">
+      {/* <div className="absolute bottom-[10px] left-0 right-0">
         <Line2 />
-      </div>
+      </div> */}
     </div>
   );
 }

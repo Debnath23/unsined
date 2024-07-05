@@ -13,7 +13,6 @@ import Line from "./icons/Line";
 function HeroSection() {
   return (
     <div className="bg-hero w-full h-[900px] px-[76px] py-[40px]">
-      <Header />
       <div className="flex pt-[160px] pb-[100px] justify-between">
         <div>
           <div>

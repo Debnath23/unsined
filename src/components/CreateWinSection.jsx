@@ -33,13 +33,13 @@ function CreateWinSection() {
       </div>
       <div className="flex justify-between py-6">
         <div className="flex">
-          <div className="flex bg-white w-[193px] h-[59px] rounded-full justify-center items-center gap-2">
+          <div className="flex bg-white w-[193px] h-[59px] cursor-pointer rounded-full justify-center items-center gap-2">
             <p className="text-[16px] font-[600px] text-black">Get Started</p>
             <Image src="/hero/arrow-2.png" width={20} height={20} />
           </div>
           <div>
-            <div className="flex bg-slate-400 w-[193px] h-[59px] rounded-full justify-center items-center gap-2 border-[1px] border-slate-50">
-              <p className="text-[16px] font-[600px] text-white">
+            <div className="flex bg-slate-400 hover:bg-white cursor-pointer w-[193px] h-[59px] rounded-full justify-center items-center gap-2 border-[1px] border-slate-50">
+              <p className="text-[16px] font-[600px] text-white hover:text-black">
                 Create Your Music
               </p>
             </div>
@@ -47,7 +47,7 @@ function CreateWinSection() {
         </div>
         <div className="flex items-center gap-2 pt-10">
           <p className="text-[14.55px] font-[400px]">Scroll Down</p>
-          <div className="w-[48px] h-[48px] border-[1px] border-slate-400 bg-slate-100 rounded-full flex justify-center items-center">
+          <div className="w-[48px] h-[48px] border-[1px] border-slate-400 cursor-pointer bg-slate-100 rounded-full flex justify-center items-center">
             <Image src="/hero/arrow-3.png" width={18} height={18} />
           </div>
         </div>
