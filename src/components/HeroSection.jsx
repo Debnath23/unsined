@@ -35,7 +35,7 @@ function HeroSection() {
             <Email />
             <p className="text-slate-400 font-medium ml-2">EMAIL ADDRESS</p>
             </div>
-            <div className="bg-blue-700 w-[200px] rounded-full h-[70px]  flex items-center justify-center font-semibold">GET STARTED</div>
+            <div className="bg-blue-700 w-[200px] rounded-full h-[70px]  flex items-center justify-center font-semibold hover:text-xl hover:w-[220px] hover:h-[80px]">GET STARTED</div>
           </div>
 
           <div className="mt-8">
